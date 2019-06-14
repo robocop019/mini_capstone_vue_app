@@ -1,0 +1,11 @@
+body {
+  background-image: url('leather_1.png');
+  font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+  margin: auto;
+  text-align: center;
+}
+
+#name-search {
+  max-width: 350px;
+  margin-left: 380px;
+}
